@@ -18,17 +18,11 @@ A plataforma facilita o contato entre aqueles que estão oferecendo essas cotas 
 Quaisquer transações subsequentes que possam ocorrer não são de responsabilidade da plataforma.<br>
 
 ## Objetivos Específicos
-● Facilitar a Conexão: Conectar ofertantes de cotas de serviços por assinatura com
-interessados de maneira direta e eficaz;<br>
-● Promover Comunicação: Fornecer ferramentas de comunicação para negociação e
-contato entre os usuários;<br>
-● Assegurar Transparência: Garantir que as informações sobre as cotas oferecidas
-sejam claras e precisas, ajudando os interessados a tomarem decisões informadas;<br>
-● Proteger a Privacidade: proteger as informações pessoais dos usuários e manter
-padrões de privacidade e segurança;<br>
-● Manter Neutralidade: Certificar-se de que qualquer transação financeira ou acordos
-entre ofertantes e interessados ocorram fora da plataforma, mantendo-a como um
-espaço de conexão e comunicação.<br>
+> - Facilitar a Conexão: Conectar ofertantes de cotas de serviços por assinatura com interessados de maneira direta e eficaz;<br>
+> - Promover Comunicação: Fornecer ferramentas de comunicação para negociação e contato entre os usuários;<br>
+> - Assegurar Transparência: Garantir que as informações sobre as cotas oferecidas sejam claras e precisas, ajudando os interessados a tomarem decisões informadas;<br>
+> - Proteger a Privacidade: proteger as informações pessoais dos usuários e manter padrões de privacidade e segurança;<br>
+> - Manter Neutralidade: Certificar-se de que qualquer transação financeira ou acordos entre ofertantes e interessados ocorram fora da plataforma, mantendo-a como um espaço de conexão e comunicação.<br>
 
 Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
