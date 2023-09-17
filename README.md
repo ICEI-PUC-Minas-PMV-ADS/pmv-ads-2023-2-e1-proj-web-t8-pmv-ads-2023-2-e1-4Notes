@@ -1,25 +1,26 @@
-# Título do Projeto
+# Sharing Accounts
 
-`CURSO`
+`Análise e Desenvovimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`02`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Este projeto visa criar uma plataforma online para que proprietários de assinaturas de serviços de streaming,
+jogos, software e outros, possam compartilhá-las com outras pessoas por meio de cotas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Eric Augusto Borges da Cunha
+* Arthur Valles Coelli
+* Edilson Ebert Epifanio
+* Julio Cesar Ramos Goncalves
+* Matheus Moreira Barboza Gonzaga
+* Raphael Henrique Silva Diniz
 
 ## Orientador
 
-* Nome completo do professor
+* Marco Rodrigo Costa
 
 # Documentação
 
