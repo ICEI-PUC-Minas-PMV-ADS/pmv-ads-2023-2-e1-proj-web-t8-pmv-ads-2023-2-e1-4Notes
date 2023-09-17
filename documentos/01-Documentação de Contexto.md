@@ -13,9 +13,9 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 
 ## Objetivos
-O propósito geral da plataforma proposta é servir de ponte para indivíduos que detêm licenças de serviços por assinatura e têm interesse em compartilhar partes dessas licenças com outras pessoas que desejam utilizar esses serviços. 
-A plataforma facilita o contato entre aqueles que estão oferecendo essas cotas e os potenciais interessados. 
-Quaisquer transações subsequentes que possam ocorrer não são de responsabilidade da plataforma.
+O propósito geral da plataforma proposta é servir de ponte para indivíduos que detêm licenças de serviços por assinatura e têm interesse em compartilhar partes dessas licenças com outras pessoas que desejam utilizar esses serviços.  
+A plataforma facilita o contato entre aqueles que estão oferecendo essas cotas e os potenciais interessados.  
+Quaisquer transações subsequentes que possam ocorrer não são de responsabilidade da plataforma.  
 
 ## Objetivos Específicos
 ● Facilitar a Conexão: Conectar ofertantes de cotas de serviços por assinatura com
