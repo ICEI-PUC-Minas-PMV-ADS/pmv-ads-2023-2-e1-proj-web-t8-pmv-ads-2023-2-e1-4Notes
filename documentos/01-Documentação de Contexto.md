@@ -43,24 +43,8 @@ Este link pode ajudar a equipe a formular a justificativa: [Como montar a justif
 
 ## Público-Alvo
 
-**Perfil de usuário**: Compartilhador<br>
-**Descrição**: O usuário compartilhador é alguém que possui assinaturas em serviços de streaming, jogos, softwares, clubes de assinatura e outros serviços que podem ser compartilhados entre múltiplos usuários. Eles têm interesse em reduzir os custos de suas assinaturas, aproveitando ao máximo o valor que pagam por elas. Além disso, são responsáveis e buscam parceiros confiáveis para compartilhar suas cotas de forma organizada e segura.<br>
-**Necessidades**:<br>
-● Uma plataforma que permite a criação e administração de grupos de compartilhamento.<br>
-● Ferramentas para configurar detalhes das cotas, como valor a ser pago, número de vagas disponíveis e datas de vencimento.<br>
-● Mecanismos de pagamento seguros e eficazes para receber os pagamentos dos membros do grupo.<br>
-● Transparência na divisão de custos e controle sobre quem tem acesso às suas contas compartilhadas.<br>
-● Uma maneira conveniente de gerenciar e monitorar os grupos e as atividades de compartilhamento.<br><br>
-
-**Perfil de usuário**: Usuário adquirente<br>
-**Descrição**: O usuário adquirente é alguém que deseja acessar serviços de streaming, jogos, softwares, clubes de assinatura e outros serviços online, mas busca uma maneira econômica de fazê-lo. Eles estão interessados em compartilhar assinaturas com outros usuários para reduzir os custos individuais. Os usuários adquirentes valorizam a legalidade e a ética no compartilhamento e procuram grupos confiáveis que possam fornecer acesso a esses serviços de forma segura e acessível.<br>
-**Necessidades**:<br>
-● Uma plataforma que conecta facilmente os usuários a grupos de compartilhamento.<br>
-● Informações detalhadas sobre os grupos disponíveis, incluindo valores, número de vagas e datas de vencimento das cotas.<br>
-● Um sistema seguro e eficiente para efetuar pagamentos aos compartilhadores.<br>
-● Garantias de segurança nas transações financeiras e no compartilhamento de informações.<br>
-● Uma forma conveniente e descomplicada de receber acesso às contas compartilhadas e gerenciar sua participação nos grupos.<br>
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
+A plataforma tem como público-alvo uma ampla gama de usuários, incluindo aqueles que utilizam serviços de streaming, jogos, softwares, clubes de assinatura e outros serviços compartilháveis.<br> 
+Além disso, a plataforma atrai pessoas que buscam economizar compartilhando assinaturas, sejam elas indivíduos ou grupos, como amigos, famílias e colegas, que desejam dividir os custos de serviços digitais. Com uma proposta inclusiva, a plataforma visa atender às necessidades de qualquer pessoa que deseje compartilhar serviços online de forma conveniente e econômica.<br>
 
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
