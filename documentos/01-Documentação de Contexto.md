@@ -1,12 +1,12 @@
 # Introdução
-Este projeto visa criar uma plataforma online para que proprietários de assinaturas de serviços de streaming, jogos, software e outros, possam compartilhá-las com outras pessoas por meio de cotas.
-O acesso a todos os lançamentos de entretenimento tornou-se um desafio oneroso para muitos, e a pirataria frequentemente surge como uma alternativa tentadora. 
-No entanto, a nossa plataforma se propõe a oferecer uma solução legal e econômica, proporcionando aos usuários a oportunidade de compartilhar assinaturas de forma segura e organizada.
+Este projeto visa criar uma plataforma online para que proprietários de assinaturas de serviços de streaming, jogos, software e outros, possam compartilhá-las com outras pessoas por meio de cotas.<br>
+O acesso a todos os lançamentos de entretenimento tornou-se um desafio oneroso para muitos, e a pirataria frequentemente surge como uma alternativa tentadora. <br>
+No entanto, a nossa plataforma se propõe a oferecer uma solução legal e econômica, proporcionando aos usuários a oportunidade de compartilhar assinaturas de forma segura e organizada.<br>
 
 
 ## Problema
-Com a proliferação de serviços de assinatura, os usuários muitas vezes desejam compartilhar suas contas para reduzir custos. 
-No entanto, a falta de uma plataforma dedicada torna esse processo desorganizado e arriscado, com questões de segurança e divisão de custos sendo frequentes. 
+Com a proliferação de serviços de assinatura, os usuários muitas vezes desejam compartilhar suas contas para reduzir custos.<br>
+No entanto, a falta de uma plataforma dedicada torna esse processo desorganizado e arriscado, com questões de segurança e divisão de custos sendo frequentes.<br>
 Além disso, alguns usuários desejam compartilhar outros serviços, como jogos, softwares e clubes de assinatura, mas enfrentam barreiras para encontrar pessoas dispostas a compartilhar.
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -19,16 +19,16 @@ Quaisquer transações subsequentes que possam ocorrer não são de responsabili
 
 ## Objetivos Específicos
 ● Facilitar a Conexão: Conectar ofertantes de cotas de serviços por assinatura com
-interessados de maneira direta e eficaz;
+interessados de maneira direta e eficaz;<br>
 ● Promover Comunicação: Fornecer ferramentas de comunicação para negociação e
-contato entre os usuários;
+contato entre os usuários;<br>
 ● Assegurar Transparência: Garantir que as informações sobre as cotas oferecidas
-sejam claras e precisas, ajudando os interessados a tomarem decisões informadas;
+sejam claras e precisas, ajudando os interessados a tomarem decisões informadas;<br>
 ● Proteger a Privacidade: proteger as informações pessoais dos usuários e manter
-padrões de privacidade e segurança;
+padrões de privacidade e segurança;<br>
 ● Manter Neutralidade: Certificar-se de que qualquer transação financeira ou acordos
 entre ofertantes e interessados ocorram fora da plataforma, mantendo-a como um
-espaço de conexão e comunicação.
+espaço de conexão e comunicação.<br>
 
 Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
