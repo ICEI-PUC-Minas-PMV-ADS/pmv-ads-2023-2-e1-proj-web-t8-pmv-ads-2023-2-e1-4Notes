@@ -50,16 +50,22 @@ A equipe está adotando o modelo Scrum, utilizando para gestão de tarefas o Mic
 ### Ferramentas
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+<ul>
+  <li>Editor de código: VS Code</li>
+  <li>Ferramentas de comunicação: Teams</li>
+  <li>Ferramenta de Wireframing: Marvel App</li>
+  <li>Ferramenta de Gestão de Tarefas: Microsoft Planner</li>
+</ul>
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Repositório de código fonte         | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/blob/main/codigo-fonte/README.md)                            |
+| Documentos do projeto               | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/tree/main/documentos)                            |
+| Projeto de Interface                | Marvel App                              | (https://marvelapp.com/prototype/304jj47g/screen/92798207)                            |
+| Gerenciamento do Projeto            | Microsoft Planner                    | (https://tasks.office.com/sgapucminasbr.onmicrosoft.com/Home/PlanViews/VK0qZzl18E2IMKMcf-VlTmQADZGm?Type=PlanLink&Channel=Link&CreatedTime=638317716067960000)                            |
+
 
 
 ### Estratégia de Organização de Codificação 
