@@ -61,10 +61,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/blob/main/codigo-fonte/README.md)                            |
-| Documentos do projeto               | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/tree/main/documentos)                            |
-| Projeto de Interface                | Marvel App                              | (https://marvelapp.com/prototype/304jj47g/screen/92798207)                            |
-| Gerenciamento do Projeto            | Microsoft Planner                    | (https://tasks.office.com/sgapucminasbr.onmicrosoft.com/Home/PlanViews/VK0qZzl18E2IMKMcf-VlTmQADZGm?Type=PlanLink&Channel=Link&CreatedTime=638317716067960000)                            |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/blob/main/codigo-fonte/README.md                            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/tree/main/documentos                            |
+| Projeto de Interface                | Marvel App                              | https://marvelapp.com/prototype/304jj47g/screen/92798207                            |
+| Gerenciamento do Projeto            | Microsoft Planner                    | https://tasks.office.com/sgapucminasbr.onmicrosoft.com/Home/PlanViews/VK0qZzl18E2IMKMcf-VlTmQADZGm?Type=PlanLink&Channel=Link&CreatedTime=638317716067960000                            |
 
 
 
