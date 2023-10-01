@@ -49,7 +49,6 @@ A equipe está adotando o modelo Scrum, utilizando para gestão de tarefas o Mic
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
 <ul>
   <li>Editor de código: VS Code</li>
   <li>Ferramentas de comunicação: Teams</li>
