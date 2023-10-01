@@ -7,16 +7,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
 - Scrum Master: Eric Cunha
 - Product Owner: Mathues Moreira
 - Equipe de Desenvolvimento: Julio Cesar, Arthur Coelli, Edilson, Raphael Diniz
 - Equipe de Design: Arthur Coelli, Matheus Moreira, Eric Cunha
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
