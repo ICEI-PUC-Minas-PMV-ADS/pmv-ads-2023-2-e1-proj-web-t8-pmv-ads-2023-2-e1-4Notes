@@ -26,12 +26,8 @@ A equipe está adotando o modelo Scrum, utilizando para gestão de tarefas o Mic
 - Em desenvolvimento: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Concluído: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário.
 
-**Abaixo, segue um print da estrutura do Kanban, que pode ser acessado a partir do link https://tasks.office.com/sgapucminasbr.onmicrosoft.com/Home/PlanViews/VK0qZzl18E2IMKMcf-VlTmQADZGm?Type=PlanLink&Channel=Link&CreatedTime=638317709176690000**
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+**A estrutura Kanban pode ser acessada a partir do link: https://tasks.office.com/sgapucminasbr.onmicrosoft.com/Home/PlanViews/VK0qZzl18E2IMKMcf-VlTmQADZGm?Type=PlanLink&Channel=Link&CreatedTime=638317709176690000. Abaixo segue um print da estrutura:**
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145268471/145c1033-457b-4145-b178-acdc97227d2c)
 
 
 ### Etiquetas
