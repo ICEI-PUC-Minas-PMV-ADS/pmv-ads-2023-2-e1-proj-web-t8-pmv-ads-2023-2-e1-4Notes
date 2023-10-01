@@ -3,7 +3,7 @@
 
 ## User Flow
 
-O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o link https://marvelapp.com/prototype/304jj47g/screen/92798207
+São apresentados dois fluxos de usuário abaixo. Em cada um deles, uma sequencia de prints mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o link https://marvelapp.com/prototype/304jj47g/screen/92798207
 
 ### Fluxo de usuário interessado em participar de uma cota de assinatura
 >![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145268471/ad3bc810-0478-4933-945a-b720f3d8228f)
