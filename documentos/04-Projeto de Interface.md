@@ -64,7 +64,7 @@ Nessa tela, o usuário que oferta cotas pode visualizar as ofertas de cotas cria
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145268471/b50d9dc7-20e4-4483-bb58-7aa3fb21a4ab)
 
 ### Tela de criação de ofertas
-Ao clicar no botão criar novas ofertas da tela anterior, o usuário é direcionado para esta tela, a partir da qual ele pode cirar outra oferta.
+Ao clicar no botão criar novas ofertas da tela anterior, o usuário é direcionado para esta tela, a partir da qual ele pode criar outra oferta.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145268471/84e8c0df-0bf5-4f77-825a-8490d87b8e79)
 
 ### Tela Quem Somos
