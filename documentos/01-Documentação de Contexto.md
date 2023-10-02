@@ -9,7 +9,6 @@ Com a proliferação de serviços de assinatura, os usuários muitas vezes desej
 No entanto, a falta de uma plataforma dedicada torna esse processo desorganizado e arriscado, com questões de segurança e divisão de custos sendo frequentes.<br>
 Além disso, alguns usuários desejam compartilhar outros serviços, como jogos, softwares e clubes de assinatura, mas enfrentam barreiras para encontrar pessoas dispostas a compartilhar.
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 
 ## Objetivos
@@ -24,7 +23,6 @@ Quaisquer transações subsequentes que possam ocorrer não são de responsabili
 > - Proteger a Privacidade: proteger as informações pessoais dos usuários e manter padrões de privacidade e segurança;<br>
 > - Manter Neutralidade: Certificar-se de que qualquer transação financeira ou acordos entre ofertantes e interessados ocorram fora da plataforma, mantendo-a como um espaço de conexão e comunicação.<br>
 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
@@ -33,13 +31,10 @@ Esse comportamento é comum e reflete a crescente necessidade de economizar em a
 A criação da plataforma visa suprir essa necessidade, falicitando o contato entre os usuários que desejam compartilhar suas assinaturas de serviços.<br>
 Ao oferecer um ambiente para gestão das assinaturas compartilhadas, provê um ambiente integrado para o usuário, que não precisa se preocupar em construir planilhas a fim de gerir suas assinaturas.<br>
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-A plataforma tem como público-alvo uma ampla gama de usuários, incluindo aqueles que utilizam serviços de streaming, jogos, softwares, clubes de assinatura e outros serviços compartilháveis.<br> 
-Além disso, a plataforma atrai pessoas que buscam economizar compartilhando assinaturas, sejam elas indivíduos ou grupos, como amigos, famílias e colegas, que desejam dividir os custos de serviços digitais. Com uma proposta inclusiva, a plataforma visa atender às necessidades de qualquer pessoa que deseje compartilhar serviços online de forma conveniente e econômica.<br>
+A plataforma tem como público-alvo usuários que utilizam serviços de streaming, jogos, softwares, clubes de assinatura e outros serviços compartilháveis.<br> 
+Além disso, a plataforma atrai pessoas que buscam economizar compartilhando assinaturas, que desejam dividir os custos de serviços digitais.<br>
 
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
