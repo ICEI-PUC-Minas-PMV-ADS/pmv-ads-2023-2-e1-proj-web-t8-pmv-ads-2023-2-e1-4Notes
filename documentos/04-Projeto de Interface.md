@@ -71,7 +71,11 @@ Ao clicar no botão criar novas ofertas da tela anterior, o usuário é direcion
 Esta tela possui a descrição da missão e políticas do site.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145268471/b6196bab-de99-40b1-83ec-c7c53d2de57f)
 
+### Tela de perfil do usuário
+Uma tela de perfil é uma página dedicada a exibir informações sobre um usuário específico.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145397112/71e4e0ab-049b-40fb-8a4f-afa7e74d2524)
 
-
-
+### Tela de edição do perfil do usuário
+A tela de edição do perfil do usuário é uma interface onde os usuários podem personalizar e atualizar as informações apresentadas em seu perfil.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-projsharing/assets/145397112/ae1a3228-d5fa-429e-91c3-8e18b1e4b836)
 
