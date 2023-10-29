@@ -1,4 +1,52 @@
 document.addEventListener("DOMContentLoaded", function() {
+    const proContainer = document.getElementById("dynamic-ads");
+    const searchInput = document.getElementById("search-input");
+    const searchButton = document.getElementById("search-button");
+  
+    // Adicione um evento de clique para a pesquisa
+    searchButton.addEventListener("click", searchOffers);
+  
+    function getRandomCotas() {
+      const cotasPreenchidas = Math.floor(Math.random() * 6);
+      const cotasTotais = 5;
+      return `${cotasPreenchidas} de ${cotasTotais}`;
+    }
+  
+    function createOfferElement(offer) {
+      const proElement = document.createElement("div");
+      proElement.className = "pro";
+      offer.filled = getRandomCotas();
+  
+      // Crie elementos para a oferta (imagem, descrição, etc.)
+      // Aqui, você pode adaptar o código para exibir as informações da oferta
+  
+      proContainer.appendChild(proElement);
+    }
+  
+    function searchOffers() {
+      const searchTerm = searchInput.value.toLowerCase();
+  
+      // Vamos buscar as ofertas do GitHub e filtrar com base na pesquisa
+      fetch("https://raw.githubusercontent.com/seurepositorio/seuarquivo.json")
+        .then((response) => response.json())
+        .then((data) => {
+          proContainer.innerHTML = ""; // Limpa os contêineres antes de adicionar novas ofertas
+  
+          data.offers.forEach((offer) => {
+            // Verifica se o termo de pesquisa está presente na oferta
+            if (offer.product.toLowerCase().includes(searchTerm)) {
+              createOfferElement(offer);
+            }
+          });
+        })
+        .catch((error) => {
+          console.error("Erro ao buscar ofertas: " + error);
+        });
+    }
+  });
+  
+
+document.addEventListener("DOMContentLoaded", function() {
     const ads = [
             {
                 "name": "Tiago Almeida",
