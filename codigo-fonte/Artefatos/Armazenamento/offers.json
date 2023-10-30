@@ -1,0 +1,75 @@
+{
+    "offers": [
+      {
+        "name": "Tiago Almeida",
+        "product": "SPOTIFY PREMIUM",
+        "rating": 5,
+        "filled": "1 de 5",
+        "profile": "Premium User"
+      },
+      {
+        "name": "Ana Silva",
+        "product": "Netflix Premium",
+        "rating": 4,
+        "filled": "2 de 5",
+        "profile": "Family Plan"
+      },
+      {
+        "name": "Lucas Santos",
+        "product": "Amazon Prime Video",
+        "rating": 4.5,
+        "filled": "3 de 5",
+        "profile": "Student Subscription"
+      },
+      {
+        "name": "Maria Garcia",
+        "product": "Apple Music",
+        "rating": 4,
+        "filled": "4 de 5",
+        "profile": "Family Plan"
+      },
+      {
+        "name": "Pedro Oliveira",
+        "product": "HBO Max",
+        "rating": 4.2,
+        "filled": "5 de 5",
+        "profile": "Premium User"
+      },
+      {
+        "name": "Isabela Costa",
+        "product": "Disney+",
+        "rating": 4.8,
+        "filled": "2 de 5",
+        "profile": "Standard Subscription"
+      },
+      {
+        "name": "Carlos Rodrigues",
+        "product": "Kindle Unlimited",
+        "rating": 3.9,
+        "filled": "3 de 5",
+        "profile": "Reader's Delight"
+      },
+      {
+        "name": "Laura Fonseca",
+        "product": "Spotify Family",
+        "rating": 4.7,
+        "filled": "4 de 5",
+        "profile": "Family Plan"
+      },
+      {
+        "name": "Gustavo Souza",
+        "product": "YouTube Premium",
+        "rating": 4.3,
+        "filled": "5 de 5",
+        "profile": "Ad-Free Experience"
+      },
+      {
+        "name": "Juliana Pereira",
+        "product": "Tidal HiFi",
+        "rating": 4.6,
+        "filled": "2 de 5",
+        "profile": "Audiophile"
+      }
+    ]
+  }
+  
