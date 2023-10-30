@@ -13,21 +13,42 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   
     function createOfferElement(offer) {
-      const proElement = document.createElement("div");
-      proElement.className = "pro";
-      offer.filled = getRandomCotas();
-  
-      // Crie elementos para a oferta (imagem, descrição, etc.)
-      // Aqui, você pode adaptar o código para exibir as informações da oferta
-  
-      proContainer.appendChild(proElement);
+        const proElement = document.createElement("div");
+        proElement.className = "pro";
+        ad.filled = getRandomCotas();
+        
+        const imgElement = document.createElement("img");
+        imgElement.src = "Icons/profile.svg";
+        imgElement.alt = offer.name;
+        imgElement.style.transform = "scale(0.1)";
+
+        const desElement = document.createElement("div");
+        desElement.className = "des";
+        desElement.innerHTML = `
+            <span>${offer.name}</span>
+            <h5>${offer.product}</h5>
+            <p>${offer.filled}</p>
+            <div class="star">
+                ${'<i class="fas fa-star"></i>'.repeat(offer.rating)}
+            </div>
+        `;
+
+        const linkElement = document.createElement("a");
+        linkElement.href = "#";
+        linkElement.innerHTML = '<i class="fa-solid fa-arrow-right-to-bracket" style="color: #000000;"></i>';
+
+        proElement.appendChild(imgElement);
+        proElement.appendChild(desElement);
+        proElement.appendChild(linkElement);
+
+        proContainer.appendChild(proElement);
     }
   
     function searchOffers() {
       const searchTerm = searchInput.value.toLowerCase();
   
       // Vamos buscar as ofertas do GitHub e filtrar com base na pesquisa
-      fetch("https://raw.githubusercontent.com/seurepositorio/seuarquivo.json")
+      fetch("offers.json")
         .then((response) => response.json())
         .then((data) => {
           proContainer.innerHTML = ""; // Limpa os contêineres antes de adicionar novas ofertas
@@ -46,6 +67,26 @@ document.addEventListener("DOMContentLoaded", function() {
   });
   
 
+  // function fetchAndProcessJSON() {
+  //   fetch('offers.json')
+  //     .then((response) => {
+  //       if (!response.ok) {
+  //         throw new Error('Não foi possível obter o JSON.');
+  //       }
+  //       return response.json();
+  //     })
+  //     .then((data) => {
+  //       // O JSON foi obtido com sucesso e agora você pode usar 'data' conforme necessário
+  //       // Por exemplo, aqui, você pode acessar as ofertas: data.offers
+  //       console.log('JSON obtido com sucesso:', data);
+  //       // Chame a função para processar as ofertas, se necessário
+  //       processOffers(data.offers);
+  //     })
+  //     .catch((error) => {
+  //       console.error('Erro ao obter o JSON:', error);
+  //     });
+  // }
+
 document.addEventListener("DOMContentLoaded", function() {
     const ads = [
             {
@@ -55,36 +96,36 @@ document.addEventListener("DOMContentLoaded", function() {
                 "filled": "1 de 5",
                 "profile": "Premium User"
             },
-            // {
-            //     "name": "Ana Silva",
-            //     "product": "Netflix Premium",
-            //     "rating": 4,
-            //     "profile": "Family Plan"
-            // },
-            // {
-            //     "name": "Lucas Santos",
-            //     "product": "Amazon Prime Video",
-            //     "rating": 4.5,
-            //     "profile": "Student Subscription"
-            // },
-            // {
-            //     "name": "Maria Garcia",
-            //     "product": "Apple Music",
-            //     "rating": 4,
-            //     "profile": "Family Plan"
-            // },
-            // {
-            //     "name": "Pedro Oliveira",
-            //     "product": "HBO Max",
-            //     "rating": 4.2,
-            //     "profile": "Premium User"
-            // },
-            // {
-            //     "name": "Isabela Costa",
-            //     "product": "Disney+",
-            //     "rating": 4.8,
-            //     "profile": "Standard Subscription"
-            // },
+            {
+                "name": "Ana Silva",
+                "product": "Netflix Premium",
+                "rating": 4,
+                "profile": "Family Plan"
+            },
+            {
+                "name": "Lucas Santos",
+                "product": "Amazon Prime Video",
+                "rating": 4.5,
+                "profile": "Student Subscription"
+            },
+            {
+                "name": "Maria Garcia",
+                "product": "Apple Music",
+                "rating": 4,
+                "profile": "Family Plan"
+            },
+            {
+                "name": "Pedro Oliveira",
+                "product": "HBO Max",
+                "rating": 4.2,
+                "profile": "Premium User"
+            },
+            {
+                "name": "Isabela Costa",
+                "product": "Disney+",
+                "rating": 4.8,
+                "profile": "Standard Subscription"
+            },
             // {
             //     "name": "Carlos Rodrigues",
             //     "product": "Kindle Unlimited",
