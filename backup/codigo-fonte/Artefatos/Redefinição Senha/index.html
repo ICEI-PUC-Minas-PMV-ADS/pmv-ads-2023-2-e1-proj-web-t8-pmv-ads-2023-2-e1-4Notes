@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Redefinir Senha</title>
+    
+           
+</head>
+<body>
+    <div id="main-container">
+        <h1>Redefinir Senha</h1>
+        <br><br>
+        <form id="reset-password-form">
+            <input type="password" name="new-password" id="new-password" placeholder="Nova Senha">
+            <input type="password" name="confirm-password" id="confirm-password" placeholder="Confirme a Nova Senha">
+            <br><br>
+            <input type="submit" id="btn-submit" value="Redefinir Senha">
+        </form>
+    </div>
+    
+<script>
+    // Seu script JavaScript aqui
+    document.addEventListener('DOMContentLoaded', function () {
+      const newPasswordInput = document.getElementById('new-password');
+      const confirmPasswordInput = document.getElementById('confirm-password');
+      const submitButton = document.getElementById('btn-submit');
+      const form = document.getElementById('reset-password-form');
+  
+      submitButton.addEventListener('click', function (e) {
+        e.preventDefault();
+  
+        const newPassword = newPasswordInput.value;
+        const confirmPassword = confirmPasswordInput.value;
+  
+        if (newPassword !== confirmPassword) {
+          alert('As senhas não coincidem. Por favor, digite senhas iguais.');
+        } else {
+          form.submit(); // Envie o formulário se as senhas coincidirem
+        }
+      });
+    });
+  </script>
+  </body>
+  
+</html>
+
