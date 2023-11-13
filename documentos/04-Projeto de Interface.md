@@ -1,4 +1,3 @@
-
 # Projeto de Interface
 
 ## User Flow
@@ -31,6 +30,10 @@ Caso o usuário que tem cadastro tenha esquecido sua senha, aqui ele pode redefi
 ### Tela de Home Page
 Tela principal, que direciona o usuário para as categorias de pesquisa que ele desejar.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-4Notes/blob/main/documentos/img/homepage.jpeg)
+
+### Tela de Inclusão de notas
+Nessa tela o usuário pode visualizar as cotas das quais já faz parte, não sendo o ofertante.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t8-pmv-ads-2023-2-e1-4Notes/blob/main/documentos/img/criar%20nota.jpeg)
 
 ### Tela de Alteração de notas
 Nessa tela o usuário pode visualizar as cotas das quais já faz parte, não sendo o ofertante.
