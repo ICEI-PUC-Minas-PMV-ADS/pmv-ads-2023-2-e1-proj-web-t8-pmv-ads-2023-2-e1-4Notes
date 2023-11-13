@@ -1,6 +1,5 @@
 # Introdução
-No contexto atual, caracterizado pela crescente complexidade das atividades profissionais e pessoais, a necessidade de uma ferramenta eficaz para gerenciamento de projetos e notas é evidente. Muitas vezes, as informações cruciais encontram-se dispersas em diferentes fontes, tornando a tarefa de monitorar projetos e tarefas um desafio. Diante
-dessa lacuna, julga-se pertinente o desenvolvimento de um software abrangente e intuitivo, denominado 4notes, que visa fornecer funcionalidades avançadas para aprimorar a organização e a produtividade dos usuários<br>
+No contexto atual, caracterizado pela crescente complexidade das atividades profissionais e pessoais, a necessidade de uma ferramenta eficaz para gerenciamento de projetos e notas é evidente. Muitas vezes, as informações cruciais encontram-se dispersas em diferentes fontes, tornando a tarefa de monitorar projetos e tarefas um desafio. Diante dessa lacuna, julga-se pertinente o desenvolvimento de um software abrangente e intuitivo, denominado 4notes, que visa fornecer funcionalidades avançadas para aprimorar a organização e a produtividade dos usuários<br>
 
 
 ## Problema
@@ -15,24 +14,18 @@ A organização eficaz de notas é fundamental, e, para isso, o software permiti
 Para preservar a integridade dos dados, o software manterá um histórico de versões das notas, possibilitando a recuperação de versões anteriores. A capacidade de adicionar anexos, como arquivos, a uma nota, aprimorará ainda mais a utilidade da plataforma. Além disso, a funcionalidade de marcação e etiquetagem permitirá que os usuários organizem suas notas de acordo com suas necessidades e preferências.<br>
 
 ## Objetivos Específicos
-> - Facilitar a Conexão: Conectar ofertantes de cotas de serviços por assinatura com interessados de maneira direta e eficaz;<br>
-> - Promover Comunicação: Fornecer ferramentas de comunicação para negociação e contato entre os usuários;<br>
-> - Assegurar Transparência: Garantir que as informações sobre as cotas oferecidas sejam claras e precisas, ajudando os interessados a tomarem decisões informadas;<br>
-> - Proteger a Privacidade: proteger as informações pessoais dos usuários e manter padrões de privacidade e segurança;<br>
-> - Manter Neutralidade: Certificar-se de que qualquer transação financeira ou acordos entre ofertantes e interessados ocorram fora da plataforma, mantendo-a como um espaço de conexão e comunicação.<br>
+> - <br>
+> - <br>
+> - <br>
+> - <br>
+> - <br>
 
 
 ## Justificativa
 
-Segundo uma pesquisa da empresa de análise de mercado Statista , publicada em 2021, cerca de 25% dos usuários nos Estados Unidos compartilham suas senhas de serviços de streaming , como Netflix e Amazon Prime, com outras pessoas. <br>
-Esse comportamento é comum e reflete a crescente necessidade de economizar em assinaturas deentretenimento. [Fonte: Statista]<br>
-A criação da plataforma visa suprir essa necessidade, falicitando o contato entre os usuários que desejam compartilhar suas assinaturas de serviços.<br>
-Ao oferecer um ambiente para gestão das assinaturas compartilhadas, provê um ambiente integrado para o usuário, que não precisa se preocupar em construir planilhas a fim de gerir suas assinaturas.<br>
+A necessidade premente de uma ferramenta eficaz para gestão de informações e projetos fundamenta a importância deste projeto. Ao abordar as limitações encontradas nas opções disponíveis no mercado, o software proposto visa preencher essa lacuna, oferecendo uma solução completa, segura e versátil. Sua implementação permitirá que indivíduos e equipes melhorem significativamente a organização de tarefas, ideias e documentos, direcionando tempo e energia para as atividades essenciais, em vez de enfrentar desafios de desorganização e busca por informações.<br>
 
 
 ## Público-Alvo
 
-A plataforma tem como público-alvo usuários que utilizam serviços de streaming, jogos, softwares, clubes de assinatura e outros serviços compartilháveis.<br> 
-Além disso, a plataforma atrai pessoas que buscam economizar compartilhando assinaturas, que desejam dividir os custos de serviços digitais.<br>
-
-
+Em relação ao público-alvo, o software atenderá a uma ampla gama de usuários, incluindo profissionais de todas as áreas que desejam otimizar a gestão de projetos e tarefas diárias. Estudantes também se beneficiarão ao organizar informações de diferentes disciplinas e projetos acadêmicos. Empreendedores encontrarão no software uma ferramenta valiosa para acompanhar o desenvolvimento de seus negócios e projetos. Além disso, equipes de trabalho terão à disposição uma plataforma colaborativa para compartilhar informações e coordenar projetos de maneira eficaz. Por fim, qualquer pessoa que busque uma solução integrada para a organização de notas pessoais, listas de tarefas, ideias e documentos encontrará neste software uma resposta eficiente às suas necessidades.<br>
