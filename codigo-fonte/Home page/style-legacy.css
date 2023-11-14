@@ -275,28 +275,3 @@ body{
     flex-basis: 24%;
     cursor: pointer;
 }
-
-#search {
-    text-align: center;
-    margin-top: 20px; /* Adiciona margem acima da barra de pesquisa */
-  }
-  
-  #search-input {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-    width: 70%;
-    max-width: 400px; /* Defina uma largura máxima para a barra de pesquisa */
-  }
-  
-  #search-button {
-    padding: 10px 20px;
-    background-color: #088178;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-    margin-left: 10px; /* Adiciona margem à esquerda do botão de pesquisa */
-  }
